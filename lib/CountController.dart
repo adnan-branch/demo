@@ -1,6 +1,6 @@
 
 
-import 'package:demo/Counter.dart';
+import 'package:demo/counter.dart';
 import 'package:get/get.dart';
 
 class CountController extends GetxController{
